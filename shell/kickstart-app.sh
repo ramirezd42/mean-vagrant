@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #development directory
-MEAN_DIR=/usr/local/src/mean
+MEAN_DIR=/vagrant/app
 
 cd $MEAN_DIR
 
